@@ -3,6 +3,7 @@
 // Applies all 8 input combinations, 5 time units apart. Used unchanged for
 // both parts (a) and (b) of this task.
 
+
 module tb;
   reg  t_a, t_b, t_cin;
   wire t_sum, t_cout;
